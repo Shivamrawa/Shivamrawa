@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivamrawa/Backend/blob/main/Screenshot%202025-02-24%20225509.png)
 <h1 align="center">Hi 👋, I'm Shivam Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
